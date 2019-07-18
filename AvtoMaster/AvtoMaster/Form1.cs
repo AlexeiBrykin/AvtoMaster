@@ -16,5 +16,15 @@ namespace AvtoMaster
         {
             InitializeComponent();
         }
+
+        private void Admin_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void User_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
