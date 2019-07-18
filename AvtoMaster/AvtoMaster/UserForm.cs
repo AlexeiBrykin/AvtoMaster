@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace AvtoMaster
 {
-    public partial class Form1 : Form
+    public partial class UserForm : Form
     {
-        public Form1()
+        public UserForm()
         {
             InitializeComponent();
-        }
-
-        private void Admin_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void User_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

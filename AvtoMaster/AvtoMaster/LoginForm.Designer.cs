@@ -1,6 +1,6 @@
 ﻿namespace AvtoMaster
 {
-    partial class Form1
+    partial class LoginForm
     {
         /// <summary>
         /// Обязательная переменная конструктора.
@@ -62,7 +62,7 @@
             this.MaximumSize = new System.Drawing.Size(436, 274);
             this.MinimumSize = new System.Drawing.Size(436, 274);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Login";
             this.ResumeLayout(false);
 
         }
